@@ -23,7 +23,7 @@ gem 'faker'
 gem 'devise'
 gem 'json', github: 'flori/json', branch: 'v1.8'
 gem 'activeadmin', github: 'activeadmin'
-
+gem 'rake', '>= 12.3.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
